@@ -24,8 +24,8 @@
 - Sour cream                    : 2 cups
 - Flour                         : 5 tbsp
 - Salt                          : 1 pinch
-- Vanilla bean or extract       : 1 scraped
-- Eggs
+- Vanilla bean or extract       : 1 scraped (1 tsp)
+- Eggs                          : 4
 
 ### Instructions
 
