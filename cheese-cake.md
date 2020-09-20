@@ -5,8 +5,13 @@
 ### Ingredients
 
 - Sugar                         : 1 tbsp
-- Butter                        : 5 tbsp 
+- Butter                        : 5 tbsp
 - Graham crackers or digestives : 7 oz, 200 g
+
+**Digestives**
+- Sugar         : 1 tsp
+- Butter        : 4 tbsp
+- Digestives    : 200g
 
 ### Instructions
 1. Crumble crackers and sugar
@@ -19,9 +24,9 @@
 ### Ingredients
 
 - Cream cheese (philadelphia)   : 227 g
-- Sugar                         : 1 1/2 cups (~300 g)
-- Heavy cream                   : 1/2 cup
-- Sour cream                    : 2 cups
+- Sugar                         : 1 1/2 cups (~250 g)
+- Heavy cream                   : 1/2 cup (100g)
+- Sour cream                    : 2 cups (400g)
 - Flour                         : 5 tbsp
 - Salt                          : 1 pinch
 - Vanilla bean or extract       : 1 scraped (1 tsp)
@@ -29,7 +34,7 @@
 
 ### Instructions
 
-1. Mix create cheese and sugar
+1. Mix cream cheese and sugar
 2. Add heavy cream and mix
 3. Add sour cream, flour, salt and vanilla bean and mix
 4. Add and mix eggs one at a time to avoid lumpy batter
